@@ -1,0 +1,66 @@
+export const cars = [
+  {
+    id: 1,
+    name: 'Toyota',
+    year: 2021,
+    country: "Japony",
+    price: 19232,
+    image: "/cars/Camry.jpeg",
+  } , {
+    id: 1,
+    name: 'Audi',
+    year: 2022,
+    country: "Germany",
+    price: 15232,
+    image: "/cars/a3.jpeg",
+  } , {
+    id: 1,
+    name: 'Mercedes',
+    year: 2021,
+    country: "Germany",
+    price: 19232,
+    image: "/cars/c.jpeg",
+  } , {
+    id: 1,
+    name: 'Ford',
+    year: 2021,
+    country: "USA",
+    price: 19232,
+    image: "/cars/focus.jpeg",
+  } , {
+    id: 1,
+    name: 'BMW',
+    year: 2021,
+    country: "Germany",
+    price: 19232,
+    image: "/cars/m3.jpeg",
+  } , {
+    id: 1,
+    name: 'Toyota',
+    year: 2019,
+    country: "Japony",
+    price: 19242,
+    image: "/cars/optima.jpeg",
+  } , {
+    id: 1,
+    name: 'Toyota',
+    year: 2022,
+    country: "Japony",
+    price: 19652,
+    image: "/cars/rio.jpeg",
+  } , {
+    id: 1,
+    name: 'Toyota',
+    year: 2017,
+    country: "Japony",
+    price: 17232,
+    image: "/cars/sol.jpeg",
+  } , {
+    id: 1,
+    name: 'Toyota',
+    year: 2014,
+    country: "Japony",
+    price: 18252,
+    image: "/cars/508.jpeg",
+  }
+]
